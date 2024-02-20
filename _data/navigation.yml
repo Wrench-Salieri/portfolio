@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
 en-US:
@@ -44,8 +42,6 @@ gr: &DEFAULT_GR
       section: nosotros
     - title: "Cronología"
       section: cronologia
-    - title: "Equipo"
-      section: equipo
     - title: "Contáctenos"
       section: contacto
 el-GR:
