@@ -23,8 +23,6 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -34,12 +32,12 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Greek
 # -------
-es: &DEFAULT_ES
+gr: &DEFAULT_GR
   nav:
-    - title: "Servicios"
-      section: servicios
+    - title: "Services"
+      section: services
     - title: "Portafolio"
       section: portafolio
     - title: "Sobre Nosotros"
@@ -50,9 +48,5 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+el-GR:
+  <<: *DEFAULT_GR
